@@ -77,9 +77,9 @@ Un fork du repo original . Puis, un Pull Request contenant :
 
 - Script ```wpa_key_derivation.py``` **modifié pour** la récupération automatique des paramètres à partir de la capture. **Les modifications doivent être commentées/documentées**
 - Script ```scaircrack.py``` **abondamment commenté/documenté** + fichier wordlist
-  - Capture d’écran de votre script en action
+   - Capture d’écran de votre script en action
 -	**(Challenge optionnel)** Script ```scairodump.py``` **abondamment commenté/documenté**
-  - Capture d’écran de votre script en action
+   - Capture d’écran de votre script en action
 -	Envoyer le hash du commit et votre username GitHub par email au professeur et à l'assistant
 
 
